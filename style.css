@@ -1,0 +1,58 @@
+body{
+    background-color: beige;
+}
+header{
+/* Display stuff */
+
+/* Positioning stuff */
+
+/* Box-model + sizing stuff - this includes background colors*/
+
+/* Typography */
+    font-size: 42px;
+    color: #2b2828;
+    text-align: center;
+/* Manipulation stuff */
+
+/* Misc */
+}
+
+header h2{
+    /* Display stuff */
+
+    /* Positioning stuff */
+
+    /* Box-model + sizing stuff - this includes background colors*/
+    background-color: #1e7474;
+    font-size: 32px;
+    color: #faebd7;
+    text-align: center;
+    /* Typography */
+
+    /* Manipulation stuff */
+
+    /* Misc*/
+    
+}
+.list-heading{
+    font-size: 24px;
+    color: #1e7474;
+    font: bold;
+    text-decoration: underline;
+}
+
+.list-item a{
+    /* Display stuff */
+
+    /* Positioning stuff */
+
+    /* Box-model + sizing stuff - this includes background colors*/
+    
+    /* Typography */
+    color: #793b3b;
+    font-size: 18px;
+    text-decoration: none;
+    /* Manipulation stuff */
+
+    /* Misc*/
+}
